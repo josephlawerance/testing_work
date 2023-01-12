@@ -1,0 +1,6 @@
+body {
+  background-color: blue;
+  color: pink;
+  display: flex;
+  justify-content: left;
+}
